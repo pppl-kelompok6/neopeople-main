@@ -19,7 +19,7 @@ import { Button } from "@mui/material";
 import { withStyles } from "@material-ui/core/styles";
 import classNames from "clsx";
 
-import { appointments } from "./appointments";
+import { appointments } from "../../src/components/sessionComponent/appointments";
 import Layout from "../../src/components/Layout";
 import { data } from "autoprefixer";
 
